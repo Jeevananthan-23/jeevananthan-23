@@ -1,19 +1,26 @@
 ### Hi there. I am Jeevananthan S. 👋
-<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
 I am complement my B.E CSE degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Cross platform application  Development and Database Handling. Also, interested in the field of Full stack engineering. <br /><br />
 
+**Some things about me:**
+- 🔭 I’m currently working on :IOT service line Industrial Operations. Transitioning into a Full Stack Developer
+- 💬 Ask me about **Web, Mobile & API Automation & Framework** 
+- 🌍 I am mostly active on **LinkedIn**
+- 💬 I have worked on building Web & Mobile Applications
+- 😄 I believe in continuous learning and upskilling<br>
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=Jeevananthan-23)
 
-### Technical Skills
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
-<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" ><br />
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br />
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+<br/>
+
+<a href="https://github.com/Jeevananthan-23">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jeevananthan-23&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lakshmi's github stats" />
+</a>
+<a href="https://github.com/LakshminarayananG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevananthan-23&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
+</a>
+
 
 ### Contact Me
 |  <a href="https://github.com/Jeevananthan-23/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
