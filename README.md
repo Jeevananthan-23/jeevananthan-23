@@ -15,10 +15,10 @@ I am complement my B.E CSE degree. Always willing to learn and implement. Profic
 <br/>
 
 <a href="https://github.com/Jeevananthan-23">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jeevananthan-23&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Jeevanantha-23 github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevananthan-23&layout=compact&hide_border=true&hide=Jupyter%20Notebook%20,html,Tex&langs_count=8&theme=tokyonight"  />
 </a>
 <a href="https://github.com/Jeevananthan-23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevananthan-23&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jeevananthan-23&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Jeevanantha-23 github stats" />
 </a>
 
 
