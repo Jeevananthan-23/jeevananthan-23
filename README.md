@@ -16,8 +16,6 @@
 
 - 😄 I believe in continuous learning and upskilling<br>
 
-- 🔭 I’m currently working on [RedisSearchDemo](https://github.com/Jeevananthan-23/RedisSearchDemo)
-
 - 🌱 I’m currently learning **React, Frontend Frameworks, Redis, Cloud Native Technologies**
 
 - 👯 I’m looking to collaborate on [redis-om-dotnet](https://github.com/Jeevananthan-23/redis-om-dotnet)
