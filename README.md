@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jeevananthan</h1>
 <h3 align="center">I am complement my B.E CSE degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Cross platform application Development and Database Handling. Also, interested in the field of Full stack engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevananthan-23&label=Profile%20views&color=0e75b6&style=flat" alt="jeevananthan-23" /> </p>
+<p align="left"> 
+ 
+  ![](https://visitor-badge.glitch.me/badge?page_id=Jeevananthan-23)
 
 **Some things about me:**
 - 🔭 I’m currently working on :IOT service line Industrial Operations. Transitioning into a Full Stack Developer
